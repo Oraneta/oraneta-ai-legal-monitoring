@@ -2,19 +2,30 @@
 <div align="center">
 
 # ORANETA AI
-## Monitoreo Jurídico Inteligente
+## DOF Alerta | Monitoreo Jurídico Inteligente
 
-### Inteligencia artificial y automatización del Diario Oficial de la Federación
+### Inteligencia artificial, alertas personalizadas y automatización empresarial por WhatsApp
 
-**Una solución desarrollada por Oraneta para Inteligencia Jurídica que transforma publicaciones oficiales en información útil, alertas personalizadas y servicios automatizados a través de WhatsApp.**
+**Transformamos las publicaciones del Diario Oficial de la Federación en información relevante, consultas inteligentes y alertas personalizadas.**
+
+**Desarrollado por Oraneta para Inteligencia Jurídica.**
 
 <img src="https://img.shields.io/badge/Inteligencia_Artificial-168BFF?style=for-the-badge" alt="Inteligencia Artificial">
 <img src="https://img.shields.io/badge/RAG-643BFF?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/WhatsApp-C329F4?style=for-the-badge" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge" alt="WhatsApp">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
 
 <br><br>
 
-**Proyecto desarrollado por [Oraneta](https://oraneta.com) para [Inteligencia Jurídica](https://inteligenciajuridica.mx)**
+<a href="https://wa.me/525549448766">
+<img src="https://img.shields.io/badge/PROBAR_GRATIS_EN_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Probar DOF Alerta gratis">
+</a>
+
+<br><br>
+
+**7 días gratis · Sin tarjeta · Hasta 5 alertas personalizadas**
+
+[Oraneta](https://oraneta.com) | [Inteligencia Jurídica](https://inteligenciajuridica.mx)
 
 </div>
 
@@ -22,312 +33,375 @@
 
 ## Acerca del proyecto
 
-**Oraneta AI | Monitoreo Jurídico Inteligente** es una aplicación empresarial que combina inteligencia artificial, procesamiento documental, búsqueda semántica y automatización de procesos para facilitar el acceso a la información publicada en el Diario Oficial de la Federación (DOF) de México.
+**Oraneta AI | DOF Alerta** es una aplicación empresarial de inteligencia artificial desarrollada por **Oraneta para Inteligencia Jurídica**, especializada en el monitoreo automatizado del Diario Oficial de la Federación (DOF) de México.
 
-Desarrollada por **Oraneta para Inteligencia Jurídica**, la solución permite monitorear publicaciones oficiales, identificar información relevante para cada usuario, generar alertas personalizadas y responder consultas jurídicas mediante WhatsApp.
+La solución combina procesamiento documental, inteligencia artificial generativa, búsqueda semántica, recuperación aumentada por generación (RAG) y automatización de procesos empresariales.
 
-Además, incorpora funcionalidades comerciales y administrativas para gestionar suscripciones, renovaciones, pagos, facturación y atención al cliente desde una misma experiencia conversacional.
+Su objetivo es transformar grandes volúmenes de información oficial en alertas personalizadas y respuestas accesibles mediante conversaciones naturales por WhatsApp.
 
-El proyecto demuestra cómo la inteligencia artificial puede integrarse con sistemas empresariales para automatizar procesos completos, más allá de responder preguntas.
+La aplicación permite a los usuarios identificar publicaciones relevantes, recibir notificaciones, consultar información jurídica y administrar sus servicios desde un único canal conversacional.
+
+Además de sus capacidades documentales, incorpora procesos de suscripción, pagos, renovaciones, facturación y atención al cliente.
+
+**Este proyecto demuestra cómo Oraneta integra inteligencia artificial con operaciones empresariales reales, más allá de un chatbot convencional.**
 
 ---
 
 ## ¿Qué problema resuelve?
 
-El Diario Oficial de la Federación publica diariamente disposiciones jurídicas, acuerdos, decretos, resoluciones y otros documentos oficiales que pueden afectar a empresas, profesionales y ciudadanos.
+El Diario Oficial de la Federación publica leyes, decretos, acuerdos, reglamentos, resoluciones, normas oficiales y otras disposiciones relevantes para empresas, profesionales y ciudadanos.
 
-Identificar oportunamente la información relevante requiere revisar publicaciones extensas, interpretar su contenido y dar seguimiento a temas específicos.
+Revisar continuamente estas publicaciones para identificar información relacionada con intereses específicos requiere tiempo y conocimiento especializado.
 
-**Oraneta AI automatiza este proceso para:**
+DOF Alerta automatiza este trabajo.
 
-- Detectar nuevas publicaciones del DOF.
-- Procesar y organizar información jurídica.
-- Identificar publicaciones relacionadas con los intereses de cada usuario.
-- Generar alertas personalizadas.
-- Facilitar consultas mediante lenguaje natural.
-- Reducir el trabajo manual de seguimiento documental.
-- Automatizar la contratación y administración del servicio.
+La aplicación permite:
+
+- Monitorear las publicaciones del DOF.
+- Identificar información relevante mediante inteligencia artificial.
+- Configurar hasta cinco temas de seguimiento.
+- Recibir alertas personalizadas por WhatsApp.
+- Consultar publicaciones utilizando lenguaje natural.
+- Realizar preguntas adicionales sobre la información encontrada.
+- Administrar suscripciones y preferencias desde WhatsApp.
+
+**El usuario no necesita revisar todo el DOF: recibe información relacionada con los temas que le interesan.**
 
 ---
 
 ## Funcionalidades principales
 
-### Monitoreo automatizado del DOF
+### 1. Monitoreo automatizado del DOF
 
-La aplicación consulta periódicamente el Diario Oficial de la Federación para detectar nuevas publicaciones.
+La aplicación incorpora procesos automatizados para identificar y procesar publicaciones del Diario Oficial de la Federación.
 
-Procesa documentos PDF, extrae su contenido y organiza la información para su posterior consulta y análisis.
+Contempla las ediciones matutinas y vespertinas.
 
-El sistema contempla las ediciones matutinas y vespertinas y mecanismos para identificar nuevas publicaciones.
+El sistema obtiene documentos oficiales, extrae su contenido y organiza la información para su posterior análisis.
 
-### Alertas jurídicas inteligentes
+### 2. Alertas jurídicas personalizadas
 
-Los usuarios pueden definir temas de interés para recibir información relacionada con sus necesidades.
+Cada usuario puede configurar hasta cinco alertas relacionadas con sus intereses.
 
-La aplicación analiza las publicaciones y determina su relevancia mediante inteligencia artificial.
+La aplicación utiliza inteligencia artificial para analizar las publicaciones e identificar información relevante.
 
-Las alertas pueden incluir resúmenes y referencias que facilitan localizar la información dentro de la publicación oficial.
+Las notificaciones incluyen resúmenes y referencias a las publicaciones correspondientes.
 
-### Consultas jurídicas con inteligencia artificial
+### 3. Búsqueda semántica
 
-Permite realizar preguntas en lenguaje natural sobre la información procesada del DOF.
+El sistema no depende exclusivamente de coincidencias exactas de palabras.
 
-Combina recuperación de información y generación de respuestas mediante modelos de OpenAI.
+Utiliza representaciones vectoriales y mecanismos de recuperación semántica para identificar documentos relacionados con los temas solicitados.
 
-El sistema utiliza búsquedas semánticas y textuales para recuperar contenido relevante y construir respuestas fundamentadas en las publicaciones disponibles.
+Esto permite encontrar información relevante aunque las publicaciones utilicen términos diferentes a los definidos por el usuario.
 
-### Asistente conversacional por WhatsApp
+### 4. Consultas jurídicas con IA
 
-WhatsApp funciona como el principal canal de interacción con los usuarios.
+Los usuarios pueden formular preguntas sobre la información publicada en el DOF.
 
-El asistente interpreta las solicitudes y las dirige automáticamente a módulos especializados.
+La aplicación combina recuperación documental con modelos de lenguaje para generar respuestas contextualizadas.
 
-Puede atender consultas, proporcionar información, gestionar servicios y acompañar al usuario durante distintos procesos.
+Permite profundizar en publicaciones, solicitar explicaciones y consultar información relacionada con temas específicos.
 
-### Gestión de suscripciones
+### 5. Asistente conversacional por WhatsApp
 
-Automatiza la incorporación de nuevos clientes y la contratación del servicio.
+WhatsApp funciona como la interfaz principal de la aplicación.
 
-Incluye mecanismos para gestionar pruebas gratuitas, planes comerciales, promociones y registro de usuarios.
+El asistente interpreta las solicitudes y las dirige a módulos especializados.
 
-### Pagos y renovaciones
+Los usuarios pueden escribir mensajes o enviar audios para interactuar con el servicio.
 
-Integra Mercado Pago para facilitar la contratación y renovación de suscripciones.
+### 6. Administración de alertas
 
-El asistente puede acompañar al usuario durante el proceso de pago y gestionar información relacionada con la vigencia de su servicio.
-
-### Facturación electrónica
-
-Incorpora un módulo de facturación conectado con un servicio especializado.
-
-Permite gestionar datos fiscales, solicitudes de facturación y operaciones relacionadas con comprobantes fiscales digitales.
-
-### Administración de alertas y preferencias
-
-Los usuarios pueden administrar sus intereses de seguimiento mediante conversaciones con el asistente.
+El asistente permite administrar las preferencias del usuario mediante lenguaje natural.
 
 Entre las operaciones disponibles se encuentran:
 
-- Crear, modificar y eliminar alertas.
-- Administrar preferencias de recordatorios.
-- Configurar preferencias promocionales.
-- Consultar información sobre la vigencia del servicio.
+- Crear alertas.
+- Modificar temas de seguimiento.
+- Eliminar alertas.
+- Consultar la configuración existente.
+- Administrar preferencias de comunicación.
 
-### Memoria conversacional
+### 7. Gestión de suscripciones
 
-La aplicación conserva el historial de las conversaciones en PostgreSQL.
+La aplicación automatiza procesos relacionados con el ciclo de vida comercial del cliente.
 
-Esto permite mantener el contexto entre mensajes y ofrecer continuidad en la atención.
+Incluye:
 
-### Atención y escalamiento humano
+- Registro de usuarios.
+- Pruebas gratuitas.
+- Contratación de suscripciones.
+- Consulta de vigencia.
+- Renovaciones.
+- Gestión de preferencias comerciales.
 
-Cuando una solicitud requiere intervención especializada, el sistema puede registrar el caso y notificar a un administrador.
+### 8. Integración de pagos
 
-Este mecanismo permite combinar automatización con atención humana.
+La solución incorpora integración con Mercado Pago para facilitar la contratación y renovación del servicio.
 
-### Seguimiento y análisis operativo
+El asistente acompaña al usuario durante los procesos comerciales y conecta la experiencia conversacional con los servicios de pago.
 
-Registra eventos relacionados con el uso de la aplicación, adquisición de usuarios, cambios de alertas y resultados del procesamiento.
+### 9. Facturación electrónica
 
-Esta información facilita el seguimiento de la operación y el análisis del servicio.
+Incluye un módulo especializado para gestionar solicitudes de facturación.
+
+La aplicación integra servicios externos para procesar información fiscal y operaciones relacionadas con comprobantes fiscales.
+
+### 10. Memoria conversacional
+
+El sistema mantiene el historial de las interacciones para conservar el contexto de las conversaciones.
+
+Esto permite dar continuidad a las solicitudes y evitar que el usuario tenga que repetir información en cada mensaje.
+
+### 11. Escalamiento a atención humana
+
+Cuando una solicitud requiere intervención especializada, el sistema puede registrar el caso y proporcionar información contextual al administrador.
+
+Este mecanismo combina automatización con supervisión humana.
+
+### 12. Seguimiento operativo
+
+La aplicación registra eventos relacionados con usuarios, alertas, adquisición de clientes y operaciones del servicio.
+
+Estos registros facilitan el seguimiento de procesos y el análisis operativo.
 
 ---
 
 ## Arquitectura tecnológica
 
-La aplicación utiliza una arquitectura modular que combina inteligencia artificial, servicios externos, automatización y almacenamiento persistente.
+Oraneta AI utiliza una arquitectura modular que integra servicios de inteligencia artificial, procesamiento documental, almacenamiento persistente y plataformas externas.
 
 | Componente | Tecnología |
 |---|---|
 | Lenguaje principal | Python |
-| Backend y servicios HTTP | FastAPI |
+| Backend | FastAPI |
 | Inteligencia artificial | OpenAI API |
 | Modelos de lenguaje | GPT, configurable |
 | Arquitectura de recuperación | RAG |
-| Búsqueda semántica | OpenAI Embeddings |
+| Búsqueda semántica | Embeddings vectoriales |
 | Base de datos | PostgreSQL |
 | Búsqueda vectorial | pgvector / HNSW |
-| Procesamiento documental | PyPDF |
+| Procesamiento de PDF | PyPDF |
 | Canal conversacional | Meta WhatsApp Cloud API |
-| Integración de pagos | Mercado Pago |
-| Facturación electrónica | API externa de facturación |
+| Pagos | Mercado Pago |
+| Facturación | API externa especializada |
 | Validación de datos | Pydantic |
-| Comunicación entre servicios | API REST y webhooks |
+| Integración de servicios | REST API y webhooks |
 
-### Flujo de funcionamiento
+### Arquitectura funcional
 
 ```text
-Diario Oficial de la Federación
-              |
-              v
-Monitoreo automatizado
-              |
-              v
-Descarga y procesamiento de PDF
-              |
-              v
-Extracción y organización del contenido
-              |
-              v
-Generación de embeddings
-              |
-              v
-PostgreSQL + búsqueda vectorial
-              |
-              v
-Análisis de relevancia con IA
-              |
-              v
-Alertas jurídicas personalizadas
-              |
-              v
-WhatsApp Business
-              |
-              v
-Usuario final
+       DIARIO OFICIAL DE LA FEDERACIÓN
+                      |
+                      v
+           MONITOREO AUTOMATIZADO
+                      |
+                      v
+          PROCESAMIENTO DOCUMENTAL
+                      |
+                      v
+        EXTRACCIÓN Y ORGANIZACIÓN
+                      |
+                      v
+          INDEXACIÓN SEMÁNTICA
+                      |
+                      v
+           POSTGRESQL / VECTOR DB
+                      |
+                      v
+       ANÁLISIS DE RELEVANCIA CON IA
+                      |
+                      v
+          ALERTAS PERSONALIZADAS
+                      |
+                      v
+              WHATSAPP API
+                      |
+                      v
+                USUARIO FINAL
 ```
 
-### Flujo del asistente conversacional
+### Arquitectura conversacional
 
 ```text
-Usuario de WhatsApp
-          |
-          v
-Meta WhatsApp Cloud API
-          |
-          v
-Webhook / FastAPI
-          |
-          v
-Oraneta AI
-Clasificación de intenciones
-          |
-          v
-Enrutamiento inteligente
-          |
-          +-- Información general
-          |
-          +-- Consultas jurídicas
-          |
-          +-- Suscripciones
-          |
-          +-- Renovaciones
-          |
-          +-- Administración
-          |
-          +-- Facturación
-          |
-          +-- Ayuda
-          |
-          v
-Ejecución del módulo correspondiente
-          |
-          v
-PostgreSQL / OpenAI / Servicios externos
-          |
-          v
-Respuesta por WhatsApp
+              USUARIO
+                 |
+                 v
+          WHATSAPP BUSINESS
+                 |
+                 v
+          META CLOUD API
+                 |
+                 v
+          WEBHOOK / FASTAPI
+                 |
+                 v
+             ORANETA AI
+                 |
+                 v
+       CLASIFICACIÓN DE INTENCIÓN
+                 |
+                 v
+        ENRUTAMIENTO INTELIGENTE
+                 |
+       +---------+---------+
+       |         |         |
+       v         v         v
+   CONSULTAS  ALERTAS   SERVICIOS
+   JURÍDICAS             COMERCIALES
+       |         |         |
+       +---------+---------+
+                 |
+                 v
+       MÓDULOS ESPECIALIZADOS
+                 |
+                 v
+    OPENAI / POSTGRESQL / APIS
+                 |
+                 v
+       RESPUESTA POR WHATSAPP
 ```
 
 ---
 
 ## Prueba la aplicación
 
-La solución está diseñada para interactuar con los usuarios a través de WhatsApp.
+**DOF Alerta está disponible mediante WhatsApp y ofrece una prueba gratuita de siete días para nuevos usuarios.**
 
-La demostración permite conocer cómo funciona un asistente empresarial capaz de combinar información jurídica, inteligencia artificial y automatización operativa.
+<div align="center">
 
-### Acceso a la demostración
+### Acceso directo al agente
 
-**El enlace de acceso a la demostración se incorporará próximamente.**
+<a href="https://wa.me/525549448766">
+<img src="https://img.shields.io/badge/ABRIR_DOF_ALERTA_EN_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Abrir agente DOF Alerta">
+</a>
 
-### ¿Qué puedes probar?
+<br><br>
 
-**1. Conversación con inteligencia artificial**
+**WhatsApp: +52 55 4944 8766**
 
-Inicia una conversación con el asistente y solicita información sobre el servicio de monitoreo jurídico.
+**7 días gratis · Sin tarjeta bancaria · Hasta 5 alertas**
 
-**2. Consultas sobre el DOF**
+</div>
 
-Realiza preguntas relacionadas con las publicaciones oficiales disponibles.
+### Instrucciones para probarla
+
+**1. Abre el agente**
+
+Haz clic en el botón de WhatsApp para iniciar una conversación con DOF Alerta.
+
+**2. Solicita información**
+
+Pregunta cómo funciona el servicio y qué información puedes monitorear.
+
+**3. Activa tu prueba gratuita**
+
+Sigue las instrucciones del asistente para comenzar el periodo gratuito de siete días.
+
+La prueba está disponible una sola vez por número para nuevos usuarios.
+
+**4. Configura tus alertas**
+
+Define hasta cinco temas de interés.
 
 Ejemplos:
 
-- ¿Qué se publicó hoy en el Diario Oficial de la Federación?
-- ¿Hay publicaciones relacionadas con comercio exterior?
-- ¿Qué información existe sobre disposiciones fiscales?
-- ¿Puedes resumir una publicación del DOF?
+- Inteligencia artificial.
+- Comercio exterior.
+- Legislación fiscal.
+- Normas oficiales mexicanas.
+- Regulación financiera.
 
-**3. Alertas personalizadas**
+**5. Consulta publicaciones oficiales**
 
-Consulta cómo funcionan las alertas jurídicas y solicita información sobre la configuración de temas de interés.
+Realiza preguntas relacionadas con el Diario Oficial de la Federación.
 
-**4. Administración del servicio**
+Ejemplos:
 
-Explora las opciones disponibles para gestionar preferencias, consultar suscripciones y recibir asistencia.
+- ¿Qué se publicó hoy en el DOF?
+- ¿Hay publicaciones relacionadas con inteligencia artificial?
+- ¿Qué disposiciones fiscales se publicaron recientemente?
+- ¿Puedes explicarme una publicación del DOF?
+- ¿Qué información existe sobre comercio exterior?
 
-**5. Procesos comerciales**
+**6. Profundiza mediante inteligencia artificial**
 
-Conoce cómo el asistente acompaña a los usuarios durante la contratación, renovación y administración de sus servicios.
+Solicita explicaciones adicionales sobre las publicaciones encontradas.
 
-### Consideraciones
+También puedes enviar mensajes de audio para interactuar con el asistente.
 
-- La demostración requiere conexión a Internet.
-- Las funcionalidades disponibles pueden depender del estado de la suscripción.
-- Las respuestas jurídicas se generan a partir de la información documental disponible.
-- Las operaciones comerciales pueden requerir datos adicionales y confirmaciones.
-- No es necesario instalar software para interactuar mediante WhatsApp.
-- La disponibilidad del acceso público está sujeta a la habilitación de la demostración.
+**7. Administra tus preferencias**
+
+Prueba las funcionalidades disponibles para consultar, modificar o eliminar tus alertas.
+
+### Condiciones de la demostración
+
+- Prueba gratuita de siete días.
+- Disponible una sola vez por número para nuevos usuarios.
+- No requiere tarjeta bancaria para iniciar la prueba.
+- Permite configurar hasta cinco alertas.
+- Requiere conexión a Internet y acceso a WhatsApp.
+- Algunas funciones dependen de la suscripción activa.
+- El servicio de pago no se renueva automáticamente.
+
+Al finalizar la prueba, el usuario puede contratar el servicio conforme a las condiciones comerciales vigentes.
 
 ---
 
 ## Aplicaciones empresariales
 
-Aunque esta implementación está especializada en información jurídica mexicana, la arquitectura de Oraneta AI puede adaptarse a diferentes sectores y procesos empresariales.
+La arquitectura desarrollada por Oraneta puede adaptarse a distintos sectores y necesidades.
 
 ### Monitoreo regulatorio
 
-Seguimiento de disposiciones, publicaciones y cambios normativos relevantes para una organización.
+Seguimiento automatizado de publicaciones, disposiciones y cambios normativos.
 
-### Gestión documental inteligente
+### Inteligencia documental
 
-Procesamiento y consulta de documentos mediante inteligencia artificial y recuperación semántica.
+Procesamiento de documentos y recuperación de información mediante inteligencia artificial.
 
-### Atención automatizada al cliente
+### Atención al cliente
 
-Asistentes que resuelven consultas y ejecutan procesos operativos a través de canales conversacionales.
+Asistentes conversacionales capaces de responder consultas y ejecutar operaciones empresariales.
 
 ### Automatización comercial
 
-Gestión de clientes, suscripciones, pagos, renovaciones y procesos administrativos.
+Gestión de clientes, suscripciones, pagos y renovaciones mediante canales de mensajería.
 
 ### Servicios de información especializados
 
-Plataformas que transforman grandes volúmenes de información en respuestas y alertas personalizadas.
+Sistemas que analizan grandes volúmenes de información y entregan resultados personalizados.
+
+### Asistentes empresariales
+
+Soluciones conectadas con bases de datos, servicios externos y procesos internos de las organizaciones.
 
 ---
 
 ## Modelo de implementación
 
-Este proyecto representa una implementación de Oraneta AI desarrollada para las necesidades de Inteligencia Jurídica.
+Esta aplicación representa una implementación real de Oraneta AI para Inteligencia Jurídica.
 
-La solución combina componentes reutilizables de inteligencia artificial y automatización con procesos especializados del sector jurídico.
+La solución integra capacidades de inteligencia artificial y automatización con procesos especializados de monitoreo jurídico.
 
-Su arquitectura modular permite adaptar los asistentes, las fuentes de información, las reglas de negocio y las integraciones a distintos entornos empresariales.
+Su arquitectura modular permite desarrollar implementaciones para diferentes industrias, fuentes documentales, canales de comunicación y necesidades operativas.
 
-Cada implementación puede requerir configuraciones, integraciones y controles específicos según las necesidades del cliente.
+Cada proyecto puede incorporar integraciones, reglas de negocio y controles específicos.
 
 ---
 
 ## Sobre el código fuente
 
-Este repositorio tiene fines exclusivamente de documentación, presentación tecnológica y portafolio profesional.
+Este repositorio tiene fines exclusivamente de documentación técnica, demostración y portafolio profesional.
 
 **El código fuente de Oraneta AI es privado y no se distribuye públicamente.**
 
-El repositorio presenta las capacidades funcionales, la arquitectura general y el caso de implementación desarrollado para Inteligencia Jurídica.
+La documentación presenta las funcionalidades, tecnologías y arquitectura general de la solución desarrollada para Inteligencia Jurídica.
 
-La publicación de esta documentación no concede licencias de uso, reproducción, modificación o distribución del software propietario.
+No contiene credenciales, configuraciones privadas, instrucciones internas de los agentes ni información confidencial de los usuarios.
+
+La publicación de este repositorio no concede autorización para reproducir, modificar, distribuir o explotar comercialmente el software propietario.
 
 ---
 
@@ -335,23 +409,31 @@ La publicación de esta documentación no concede licencias de uso, reproducció
 
 **[Inteligencia Jurídica](https://inteligenciajuridica.mx)** es una plataforma especializada en información y conocimiento legal mexicano.
 
-Combina herramientas tecnológicas con contenido jurídico estructurado para facilitar el acceso a legislación, jurisprudencia, conceptos jurídicos y recursos especializados.
+Combina herramientas tecnológicas con contenido jurídico estructurado para facilitar el acceso a legislación, jurisprudencia y recursos especializados.
 
-La implementación de Oraneta AI amplía estas capacidades mediante monitoreo automatizado del DOF, alertas personalizadas y atención conversacional inteligente.
+DOF Alerta incorpora inteligencia artificial y automatización para ofrecer seguimiento personalizado de las publicaciones del Diario Oficial de la Federación mediante WhatsApp.
 
 ---
 
 ## Acerca de Oraneta
 
-**[Oraneta](https://oraneta.com)** desarrolla plataformas de asistentes digitales empresariales que combinan inteligencia artificial, automatización de procesos e integración con sistemas corporativos.
+**[Oraneta](https://oraneta.com)** desarrolla plataformas de asistentes digitales empresariales que combinan inteligencia artificial, automatización de procesos y conocimiento especializado del negocio.
 
-Sus soluciones permiten interactuar con clientes, proveedores y colaboradores, consultar información empresarial y ejecutar tareas operativas mediante conversaciones naturales.
+Sus soluciones permiten interactuar con clientes, proveedores y colaboradores, acceder a información empresarial y ejecutar procesos operativos mediante lenguaje natural.
 
-El proyecto desarrollado para Inteligencia Jurídica demuestra la aplicación de estas capacidades en un servicio especializado de información legal.
+El desarrollo de DOF Alerta para Inteligencia Jurídica demuestra la aplicación de estas capacidades en un servicio real de información jurídica.
 
 ---
 
 <div align="center">
+
+## Conoce DOF Alerta
+
+<a href="https://wa.me/525549448766">
+<img src="https://img.shields.io/badge/PROBAR_DOF_ALERTA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Probar DOF Alerta">
+</a>
+
+<br><br>
 
 ## Conecta con Oraneta
 
